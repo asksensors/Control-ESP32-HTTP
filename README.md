@@ -1,2 +1,2 @@
 # Control-ESP32-HTTP
-Send commands to ESP32 with AskSensors over HTTP
+ESP32 reads commands from AskSensors over HTTP
